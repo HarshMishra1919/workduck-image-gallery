@@ -1,0 +1,10 @@
+.images-carousel {
+    display: flex;
+    width: full;
+    overflow-x: scroll;
+    scroll-behavior: smooth;
+}
+
+.images-carousel::-webkit-scrollbar {
+    display: none;
+}
